@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void factorial()
+void fact()
 {
 
     int x,fact=1,n;
